@@ -8,7 +8,7 @@ De asemenea,proiectul contine un senzor de temperatura si un motor dc ce se acti
 
 ![Schema pentru conectarea senzorului de temperatura si a motorului dc](screenshot.png)
 
-## Requirements
+## Cerinte
   ***Hardware***
 - Placa Arduino Uno
 - 2 Senzori Ultrasonici
@@ -19,6 +19,14 @@ De asemenea,proiectul contine un senzor de temperatura si un motor dc ce se acti
 - Rezistenta 1K
 
 
+***Software***
+ - Arduino
+ - Python 2.7
+
+
+
+
+## Manual utilizator
 
 ## Referinte
 
