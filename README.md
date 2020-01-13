@@ -9,13 +9,14 @@ De asemenea,proiectul contine un senzor de temperatura si un motor dc ce se acti
 ![Schema pentru conectarea senzorului de temperatura si a motorului dc](screenshot.png)
 
 ## Requirements
-Placa Arduino Uno
-2 Senzori Ultrasonici
-Motor Dc
-Senzor de temperatura LM35
-Tranzistor NPN 3904
-Dioda
-Rezistenta 1K
+  ***Hardware***
+- Placa Arduino Uno
+- 2 Senzori Ultrasonici
+- Motor Dc
+- Senzor de temperatura LM35
+- Tranzistor NPN 3904
+- Dioda
+- Rezistenta 1K
 
 
 
